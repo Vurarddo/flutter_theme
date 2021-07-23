@@ -1,0 +1,74 @@
+{
+  "valorantTournaments": "Valorant Tournaments",
+  "@valorantTournaments": {
+    "type": "text"
+  },
+  "uiScreen": "UI Screen",
+  "@uiScreen": {
+    "type": "text"
+  },
+  "lightTheme": "Светлая Тема",
+  "@lightTheme": {
+    "type": "text"
+  },
+  "darkTheme": "Тёмная Тема",
+  "@darkTheme": {
+    "type": "text"
+  },
+  "systemTheme": "Системная Тема",
+  "@systemTheme": {
+    "type": "text"
+  },
+  "dummyDialog": "Пустой диалог",
+  "@dummyDialog": {
+    "type": "text"
+  },
+  "close": "Закрыть",
+  "@close": {
+    "type": "text"
+  },
+  "clickMe": "Нажми на меня!",
+  "@clickMe": {
+    "type": "text"
+  },
+  "select": "Выбрать",
+  "@select": {
+    "type": "text"
+  },
+  "one": "Один",
+  "@one": {
+    "type": "text"
+  },
+  "two": "Два",
+  "@two": {
+    "type": "text"
+  },
+  "three": "Три",
+  "@three": {
+    "type": "text"
+  },
+  "four": "Четыре",
+  "@four": {
+    "type": "text"
+  },
+  "username": "Имя пользователя",
+  "@username": {
+    "type": "text"
+  },
+  "password": "Пароль",
+  "@password": {
+    "type": "text"
+  },
+  "somethingWrong": "Что-то не так ...",
+  "@somethingWrong": {
+    "type": "text"
+  },
+  "errorField": "Поле ошибки",
+  "@errorField": {
+    "type": "text"
+  },
+  "multiline": "Многострочный",
+  "@multiline": {
+    "type": "text"
+  }
+}

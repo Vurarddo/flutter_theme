@@ -1,0 +1,74 @@
+{
+  "valorantTournaments": "Valorant Tournaments",
+  "@valorantTournaments": {
+    "type": "text"
+  },
+  "uiScreen": "UI Screen",
+  "@uiScreen": {
+    "type": "text"
+  },
+  "lightTheme": "Light Theme",
+  "@lightTheme": {
+    "type": "text"
+  },
+  "darkTheme": "Dark Theme",
+  "@darkTheme": {
+    "type": "text"
+  },
+  "systemTheme": "System Theme",
+  "@systemTheme": {
+    "type": "text"
+  },
+  "dummyDialog": "Dummy dialog",
+  "@dummyDialog": {
+    "type": "text"
+  },
+  "close": "Close",
+  "@close": {
+    "type": "text"
+  },
+  "clickMe": "Click me!",
+  "@clickMe": {
+    "type": "text"
+  },
+  "select": "Select",
+  "@select": {
+    "type": "text"
+  },
+  "one": "One",
+  "@one": {
+    "type": "text"
+  },
+  "two": "Two",
+  "@two": {
+    "type": "text"
+  },
+  "three": "Three",
+  "@three": {
+    "type": "text"
+  },
+  "four": "Four",
+  "@four": {
+    "type": "text"
+  },
+  "username": "Username",
+  "@username": {
+    "type": "text"
+  },
+  "password": "Password",
+  "@password": {
+    "type": "text"
+  },
+  "somethingWrong": "Something wrong ...",
+  "@somethingWrong": {
+    "type": "text"
+  },
+  "errorField": "Error field",
+  "@errorField": {
+    "type": "text"
+  },
+  "multiline": "Multiline",
+  "@multiline": {
+    "type": "text"
+  }
+}
