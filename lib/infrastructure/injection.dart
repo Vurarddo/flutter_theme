@@ -3,5 +3,7 @@ import 'package:injectable/injectable.dart';
 
 import 'injection.config.dart';
 
-// @InjectableInit()
-// Future<void> configureDependencies(GetIt getIt) => $initGetIt(getIt);
+final getIt = GetIt.instance;
+
+@InjectableInit()
+Future<void> configureDependencies() => $initGetIt(getIt);

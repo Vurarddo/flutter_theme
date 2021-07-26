@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 
 import 'package:cross_platform_project/utils/device-info.dart';
 import 'application.dart';
+import 'infrastructure/injection.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -12,9 +13,7 @@ void main() async {
     await DesktopWindow.setMinWindowSize(Size(1280, 720));
   }
 
-  // final getIt = GetIt.instance;
-
-  // await configureDependencies(getIt);
+  await configureDependencies();
 
   runApp(Application());
 }
