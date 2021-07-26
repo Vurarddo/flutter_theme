@@ -1,4 +1,4 @@
-# cross_platform_project
+# flutter_theme
 
 A new Flutter project.
 
